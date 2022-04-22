@@ -1,5 +1,5 @@
 ## Currículum Vitae
-![mifoto](https://github.com/gabylepek/gabylepek.github.io/blob/main/image.png)
+![mifoto](image.png)
 ### Alessandro Gabriel charotti ###
 - __Contacto__ <br>
 Ubicación: Carrer Malgrat 40<br>
